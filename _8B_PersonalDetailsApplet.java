@@ -5,6 +5,7 @@ import java.awt.event.*;
 
 public class _8B_PersonalDetailsApplet extends Applet implements ActionListener {
     //        ^ remove this _8B_ before runninng from every where
+    //         if this does not work use _7B_ same codes
     // Correctly initialize and declare string variables
     String s1 = "", s2 = "", s3 = "", s4 = "", s5 = "";
 
